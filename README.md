@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/fecb768f-70ec-4849-9fa2-d1dbd4eefbd2)
+
+
 MaterialSkin Library Sidebar
 A modern, dark-themed navigation sidebar built using C# WinForms and the .NET Framework. This project utilizes the MaterialSkin.2 library to bring Google's Material Design aesthetics to classic Windows Forms applications.
 
