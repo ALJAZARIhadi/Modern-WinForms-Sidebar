@@ -1,0 +1,13 @@
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\bin\Debug\Slide_Bar_At_School.exe.config
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\bin\Debug\Slide_Bar_At_School.exe
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\bin\Debug\Slide_Bar_At_School.pdb
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\bin\Debug\MaterialSkin.dll
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.csproj.AssemblyReference.cache
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.Form1.resources
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.Properties.Resources.resources
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.csproj.GenerateResource.cache
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.csproj.CoreCompileInputs.cache
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Ba.089FD7A2.Up2Date
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.exe
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.pdb
+C:\Users\talal\source\repos\Slide_Bar_At_School\Slide_Bar_At_School\obj\Debug\Slide_Bar_At_School.exe.config

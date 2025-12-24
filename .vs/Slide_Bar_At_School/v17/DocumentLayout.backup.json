@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\talal\\source\\repos\\Slide_Bar_At_School\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{038D4622-8C70-4B27-95CE-94E92377BDDF}|Slide_Bar_At_School\\Slide_Bar_At_School.csproj|C:\\Users\\talal\\source\\repos\\Slide_Bar_At_School\\slide_bar_at_school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{038D4622-8C70-4B27-95CE-94E92377BDDF}|Slide_Bar_At_School\\Slide_Bar_At_School.csproj|solutionrelative:slide_bar_at_school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038D4622-8C70-4B27-95CE-94E92377BDDF}|Slide_Bar_At_School\\Slide_Bar_At_School.csproj|c:\\users\\talal\\source\\repos\\slide_bar_at_school\\slide_bar_at_school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038D4622-8C70-4B27-95CE-94E92377BDDF}|Slide_Bar_At_School\\Slide_Bar_At_School.csproj|solutionrelative:slide_bar_at_school\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\talal\\source\\repos\\Slide_Bar_At_School\\Slide_Bar_At_School\\Form1.cs",
+              "RelativeDocumentMoniker": "Slide_Bar_At_School\\Form1.cs",
+              "ToolTip": "C:\\Users\\talal\\source\\repos\\Slide_Bar_At_School\\Slide_Bar_At_School\\Form1.cs*",
+              "RelativeToolTip": "Slide_Bar_At_School\\Form1.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:38:02.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\talal\\source\\repos\\Slide_Bar_At_School\\Slide_Bar_At_School\\Form1.cs",
+              "RelativeDocumentMoniker": "Slide_Bar_At_School\\Form1.cs",
+              "ToolTip": "C:\\Users\\talal\\source\\repos\\Slide_Bar_At_School\\Slide_Bar_At_School\\Form1.cs [Design]*",
+              "RelativeToolTip": "Slide_Bar_At_School\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T10:37:10.925Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
